@@ -8,7 +8,7 @@ pytdx的原代码无法使用本地通达信金融终端中科创板和北交所
 先通过pip正常安装pytdx，然后更新python目录下..\Lib\site-packages\pytdx\reader中的daily_bar_reader.py
 
 更新方法：
-正常目录下的daily_bar_reader.py然后到上述目录覆盖原文件。
+下载目录下的daily_bar_reader.py，然后到上述目录下覆盖原来的文件即可。
 
 注意：
 为避免异常，请将原daily_bar_reader.py文件保存在其它位置，如果发生意外，可恢复原文件。
