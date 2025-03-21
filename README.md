@@ -1,8 +1,8 @@
 # pytdx
-修改daily_bar_reader以读取科创板和北交所的日交易数据
+修改daily_bar_reader以读取科创板的日交易数据
 
 pytdx version-1.7.2问题：
-pytdx的原代码无法使用本地通达信金融终端中科创板和北交所的个股日交易数据。
+pytdx的原代码无法使用本地通达信金融终端中科创板的个股日交易数据。
 
 解决方法：
 先通过pip正常安装pytdx，然后更新python目录下..\Lib\site-packages\pytdx\reader中的daily_bar_reader.py
