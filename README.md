@@ -1,0 +1,2 @@
+# pytdx
+修改daily_bar_reader以读取科创板和北交所的日交易数据
